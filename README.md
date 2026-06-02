@@ -1,10 +1,9 @@
-----------------------------
-ASCIIT
-----------------------------
+![banner](assets/banner.png)
 
 AsciIt is an interactive terminal utility that turns images and your
 webcam into ASCII art. It merges a static image-to-ASCII converter and a
 live webcam ASCII shader into one polished TUI.
+
 
 ----------------------------
 FEATURES
@@ -41,5 +40,11 @@ BUILT WITH
 ----------------------------
 
 [+] Pillow, NumPy, OpenCV, pyfiglet, rich
+
+----------------------------
+EXAMPLE
+----------------------------
+
+![example](assets/output.png)
 
 ----x----x----x----x----x----
